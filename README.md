@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 
 ## 🌐 Site
 
-You can check the project with this link: https://company-ad-explorer.vercel.app
+You can check the project with this link: https://company-ad-2-explorer.vercel.app
 
 ## :memo: License
 
